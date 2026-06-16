@@ -6,8 +6,3 @@ Herramientas y Tecnologías
 Editor de Código: Visual Studio Code
 Framework: .NET SDK 8.0
 Control de Versiones: Git y GitHub
-## Cómo ejecutar el proyecto
-1. Abre la terminal en la carpeta raíz del proyecto.
-2. Ejecuta el siguiente comando para compilar y correr la aplicación de consola:
-   ```bash
-   dotnet run
